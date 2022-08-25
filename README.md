@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Delgado Henriques
 - 👀 I’m interested in e-commerce and mobile projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Bootstrap
 - 💞️ I’m looking to collaborate on Senai projects, the company he work for, as well as personal projects
 - 📫 How to reach me -> Linkedin: https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/ 
 -  & Email: pedrodelgadohenriques1@hotmail.com 
