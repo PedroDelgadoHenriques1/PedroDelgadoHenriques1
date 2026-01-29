@@ -20,17 +20,17 @@ I’m currently directing my portfolio toward **low-level graphics programming**
 I’m also open to roles and projects focused on:
 - **C# / .NET**
 - **Unity (runtime, gameplay systems, editor/tooling, optimization)**
-- Engineering workflow: Git, CI/CD, automated testing
+- Engineering workflow: Git/Unity Version Control, CI/CD, automated testing, unitary testing
 
 ---
 
 ## 🧠 About me
-I’m a **Software Engineer** with ~**4 years of experience** building software (including **games**, teaching/mentoring, and production systems).  
+I’m a **Software Engineer** with ~**4.5 years of experience** building software (including **games**, teaching/mentoring, E-commerce, production systems). 
 My current goal is to build a strong portfolio in **Graphics/Engine Programming**, working on teams that value **low-level development, performance, and clean architecture**.
 
 ---
 
-## 🧰 Core Stack (Only what matters for target roles)
+## 🧰 Core Stack
 
 **Tier 1**
 - **C / C++**
