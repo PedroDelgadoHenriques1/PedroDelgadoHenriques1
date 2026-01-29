@@ -2,9 +2,9 @@
 **Software Engineer (Full-Stack → Graphics/Engine Focus)**  📍 Brazil
 🌎 English: Advanced reading and writing, intermediate conversational skills.
 ## 🤝 Contact
-- Email: **pedrodelgadohenriques1@gmail.com**
 - WhatsApp: **+55 43 999926087**
 - Linkedin: https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/
+- Email: **pedrodelgadohenriques1@gmail.com**
 ---
 
 ## 🎯 Professional Focus (Tier 1 / Tier 2)
