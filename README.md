@@ -129,5 +129,8 @@ Performance Optimization
 Problem Solving  
 Mathematics • Physics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDelgadoHenriques1&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDelgadoHenriques1&layout=compact&theme=github_dark" />
+</p>
+
 
