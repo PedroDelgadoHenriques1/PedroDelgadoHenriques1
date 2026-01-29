@@ -1,8 +1,10 @@
 # Pedro Delgado Henriques 👋
-**Software Engineer (Full-Stack → Graphics/Engine Focus)**  
-📍 Brazil • 📧 pedrodelgadohenriques1@gmail.com • 📱 +55 43 99992-6087  
+**Software Engineer (Full-Stack → Graphics/Engine Focus)**  📍 Brazil
 🌎 English: Advanced reading and writing, intermediate conversational skills.
-
+## 🤝 Contact
+- Email: **pedrodelgadohenriques1@gmail.com**
+- WhatsApp: **+55 (43)99992-6087**
+- Linkedin: https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/
 ---
 
 ## 🎯 Professional Focus (Tier 1 / Tier 2)
@@ -126,14 +128,3 @@ Game Mechanics
 Performance Optimization  
 Problem Solving  
 Mathematics • Physics
-
-
-## 🤝 Contact
-- Email: **pedrodelgadohenriques1@gmail.com**
-- WhatsApp: **+55 (43)99992-6087**
-
----
-
-## 📈 GitHub Stats (Optional)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
