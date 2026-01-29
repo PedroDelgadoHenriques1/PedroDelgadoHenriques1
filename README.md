@@ -72,7 +72,7 @@ My current goal is to build a strong portfolio in **Graphics/Engine Programming*
 
 ## 💼 Professional Experience
 
-### Junior Frontend / Web Developer  
+### Web Developer  
 **Bis2Bis E-commerce**  
 **Nov 2021 – May 2024**
 
