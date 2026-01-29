@@ -128,6 +128,3 @@ Game Mechanics
 Performance Optimization  
 Problem Solving  
 Mathematics • Physics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=PedroDelgadoHenriques1&layout=compact&theme=github_dark&hide_border=true)
-
