@@ -1,4 +1,4 @@
-# Pedro Delgado Henriques 👋
+# Pedro Delgado Henriques 
 **Software Engineer (Full-Stack → Graphics/Engine Focus)**  📍 Brazil
 🌎 English: Advanced reading and writing, intermediate conversational skills.
 ## 🤝 Contact
