@@ -1,72 +1,138 @@
-# Pedro Delgado Henriques 
-**Software Engineer (Full-Stack → Graphics/Engine Focus)**  📍 Brazil
-🌎 English: Advanced reading and writing, intermediate conversational skills.
+# Pedro Delgado Henriques
+**Software Engineer | C++ / Graphics Programming | Full-Stack Background**  
+📍 Brazil
+
+🌎 **English:** Advanced reading and writing, intermediate conversational skills.
+
+---
+
 ## 🤝 Contact
-- WhatsApp: **+55 43 999926087**
-- Linkedin: https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/
+
+- WhatsApp: **+55 43 99992-6087**
+- LinkedIn: https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/
 - Email: **pedrodelgadohenriques1@gmail.com**
+
 ---
 
-## 🎯 Professional Focus (Tier 1 / Tier 2)
+## 🎯 Professional Focus
 
-### 🥇 Tier 1 — C++ / Low-Level Graphics Programming
-I’m currently directing my portfolio toward **low-level graphics programming**, focusing on:
-- **C++ (C++98/11)**
-- **Vulkan / OpenGL** (rendering pipeline, buffers, shaders, synchronization, GPU/CPU flow)
-- Engine structures: **ECS**, math (vectors/matrices), asset pipeline, build systems
-- Best practices: **architecture, performance, debugging, testing, and code quality**
+I am currently focusing my portfolio and career on **low-level graphics and engine programming**, with emphasis on:
 
-### 🥈 Tier 2 — C# / .NET / Unity
-I’m also open to roles and projects focused on:
+- **C / C++ (C++98/11)**
+- **Vulkan / OpenGL** *(rendering pipeline, command buffers, shaders, synchronization, GPU/CPU communication)*
+- Engine architecture concepts: **ECS, math libraries, asset pipelines, memory management, and build systems**
+- Software engineering best practices: **performance optimization, debugging, testing, clean architecture, and code quality**
+
+I also have experience and interest in:
+
 - **C# / .NET**
-- **Unity (runtime, gameplay systems, editor/tooling, optimization)**
-- Engineering workflow: Git/Unity Version Control, CI/CD, automated testing, unitary testing
+- **Unity** *(gameplay systems, runtime systems, editor tooling, optimization)*
+- Engineering workflows: **Git, CI/CD, automated testing, and software architecture**
 
 ---
 
-## 🧠 About me
-I’m a **Software Engineer** with ~**4.5 years of experience** building software (including **games**, teaching/mentoring, E-commerce, production systems). 
-My current goal is to build a strong portfolio in **Graphics/Engine Programming**, working on teams that value **low-level development, performance, and clean architecture**.
+## 🧠 About Me
+
+I am a **Software Engineer** with approximately **4.5 years of professional experience** in software development, including **game systems, web development, e-commerce, programming education, and production systems**.
+
+My current goal is to transition into **Graphics/Engine Programming**, contributing to teams that value **low-level development, performance, scalability, and clean architecture**.
 
 ---
 
 ## 🧰 Core Stack
 
-**Tier 1**
+### Languages & Programming
 - **C / C++**
-- Fundamentals: data structures, performance, debugging, software architecture
-- Graphics: **Vulkan / OpenGL** (portfolio under active development)
-
-**Tier 2**
 - **C#**
-- **.NET**
-- **Unity**
+- **PHP**
+- **JavaScript**
 
-**Tools**
-- Git (GitHub/GitLab), Docker, CI/CD  
-- (Cloud and delivery pipelines when needed)
+### Graphics & Game Development
+- **Vulkan / OpenGL** *(portfolio currently in development)*
+- **Unity**
+- Gameplay Systems
+- Performance Optimization
+
+### Software Engineering
+- Data Structures & Algorithms
+- Software Architecture
+- Debugging & Testing
+- CI/CD
+- Agile / Scrum
+
+### Tools
+- Git (**GitHub / GitLab**)
+- Docker
 
 ---
 
-## 📌 Featured Projects (Portfolio-oriented)
-> These are the kinds of repositories I maintain / am currently building to demonstrate Tier 1 & Tier 2 skills.
+## 📌 Featured Projects
 
-### 🎮 Graphics / Engine (C++)
-- **MiniRenderer (Vulkan)** — from scratch: swapchain, command buffers, sync, pipelines, descriptors
-- **OpenGL Sandbox** — basic PBR, shadow mapping, post-processing, instancing
-- **Math Library** — vectors/matrices/quaternions + tests and benchmarks
-- **ECS Playground** — ECS architecture focused on cache locality and performance
+### 🎮 Graphics / Engine Programming (C++)
 
-### 🧩 Unity / C# (Tier 2)
-- **Unity Gameplay Systems** — state machines, input, UI, pooling, save/load
-- **Editor Tools** — tooling for asset pipeline, inspectors, and automation
+#### **MiniRenderer (Vulkan)**
+Custom renderer featuring:
+- Swapchain management
+- Command buffers
+- Synchronization
+- Graphics pipelines
+- Descriptor systems
+
+#### **OpenGL Sandbox**
+Graphics experiments including:
+- Basic PBR
+- Shadow mapping
+- Post-processing
+- Instancing
+
+#### **Math Library**
+Custom implementation of:
+- Vectors
+- Matrices
+- Quaternions
+
+Includes:
+- Testing
+- Benchmarking
+
+#### **ECS Playground**
+Entity Component System architecture focused on:
+- Performance
+- Cache locality
+- Scalability
+
+---
+
+### 🎮 Unity / C# Projects
+
+#### **Gameplay Systems**
+Implementation of:
+- State machines
+- Input systems
+- UI systems
+- Object pooling
+- Save/load mechanics
+
+#### **Editor Tools**
+Custom Unity tools for:
+- Workflow automation
+- Custom inspectors
+- Asset pipeline improvements
 
 ---
 
 ## 📚 Education
-- **B.Sc. in Software Engineering** — UniSenaiPR (Faculdade da Indústria) — *Completed: Jul/2025*
-- **Postgraduate (ongoing):** .NET Systems Architecture
-- - **Chemical Engineering** — Federal University of Technology – Paraná, Londrina Campus
+
+### **B.Sc. in Software Engineering**
+**UniSenaiPR – Faculdade da Indústria**  
+**Completed:** Jul/2025
+
+### **Postgraduate Degree (Ongoing)**
+**.NET Systems Architecture**
+
+### **Former Studies**
+**Chemical Engineering**  
+Federal University of Technology – Paraná (**UTFPR**)
 
 ---
 
@@ -76,55 +142,48 @@ My current goal is to build a strong portfolio in **Graphics/Engine Programming*
 **Bis2Bis E-commerce**  
 **Nov 2021 – May 2024**
 
-I worked as a **Web Developer** focused on **e-commerce development** using **Magento 1** and the **PHP stack**.
+Worked on **Magento-based e-commerce systems**, developing and maintaining online stores using the **PHP ecosystem**.
 
-**Responsibilities:**
-- Full development of online stores using **PHP, JavaScript, and Magento 1**
-- Development of **new store themes** from **PSD / Photoshop designs**
-- Maintenance and improvement of existing themes
-- Creation, customization, and bug fixing of **Magento modules**
-- Implementation and maintenance of **e-commerce business logic**
-- Performance improvements and code maintenance
-- Participation in **Scrum ceremonies**, sprint planning, and technical meetings
-- Close collaboration with designers, developers, and project managers
+#### Responsibilities
+- Development of e-commerce features using **PHP, JavaScript, and Magento**
+- Creation and maintenance of store themes from design specifications
+- Bug fixing and customization of Magento modules
+- Maintenance of business rules and integrations
+- Performance optimization and technical maintenance
+- Participation in **Scrum ceremonies** and agile workflows
 
-**Technologies:**
-PHP • JavaScript • Magento 1 • HTML • CSS • Git • Agile / Scrum
+#### Tech Stack
+`PHP` `JavaScript` `Magento` `HTML` `CSS` `Git` `Scrum`
 
 ---
 
-### Programming Professor  
+### Programming Instructor  
 **EnsinaMais**  
 **Jul 2024 – Dec 2024**
 
-I work as a **Programming Professor**, teaching programming concepts with a strong focus on **hands-on learning**.
+Taught programming fundamentals through **hands-on practical lessons**.
 
-**Responsibilities:**
-- Teaching programming through **practical lessons**
-- Topics include **games, animations, storytelling, programming logic, Python, and Scratch**
-- Monitoring student progress with **continuous assessment**
+#### Topics Covered
+- Programming Logic
+- Python
+- Scratch
+- Games & Animations
+- Problem-Solving Skills
 
 ---
 
-### Full-Stack / Systems Developer  
+### Systems / Game Developer  
 **Firepot Gaming**  
 **Dec 2024 – Present**
 
-I work as a **Full-Stack / Systems Developer** focused on **gaming systems (slot machines)** and internal management tools.
+Working on **slot machine systems**, performance optimization, testing automation, and internal development tools.
 
-**Responsibilities:**
-- Manual and automated testing of **slot machine software**
-- Design and implementation of an **automated testing process**
-- Development and maintenance of **web-based management systems** for slot machines
-- Programming in **C and C++**, focusing on **performance, stability, and low-level systems**
-- Performance optimization for multiple products
-- Development of **internal tools** to support **data analysis and decision-making** for clients
+#### Responsibilities
+- Development in **C and C++**
+- Automated and manual software testing
+- Performance optimization
+- Internal web systems development
+- Creation of tools for analysis and operational support
 
-**Technologies & Skills:**
-C • C++ • GitHub • GitFlow  
-Agile Software Development  
-Object-Oriented Programming (OOP)  
-Game Mechanics  
-Performance Optimization  
-Problem Solving  
-Mathematics • Physics
+#### Technologies & Skills
+`C` `C++` `Git` `GitFlow` `Agile` `OOP` `Performance Optimization`
