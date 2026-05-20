@@ -1,189 +1,105 @@
-# Pedro Delgado Henriques
-**Software Engineer | C++ / Graphics Programming | Full-Stack Background**  
-📍 Brazil
+<div align="center">
 
-🌎 **English:** Advanced reading and writing, intermediate conversational skills.
+# Pedro Delgado Henriques.
 
----
+**Software Engineer** · Game Dev C++ · .NET · Full-Stack Web
+📍 Londrina, BR · ~5 anos · Inglês B2
 
-## 🤝 Contact
+### [▶ &nbsp;Ver portfolio completo →](https://pedrodelgadohenriques1.github.io)
 
-- WhatsApp: **+55 43 99992-6087**
-- LinkedIn: https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/
-- Email: **pedrodelgadohenriques1@gmail.com**
+`pedrodelgadohenriques1.github.io`
 
----
-
-## 🎯 Professional Focus
-
-I am currently focusing my portfolio and career on **low-level graphics and engine programming**, with emphasis on:
-
-- **C / C++ (C++98/11)**
-- **Vulkan / OpenGL** *(rendering pipeline, command buffers, shaders, synchronization, GPU/CPU communication)*
-- Engine architecture concepts: **ECS, math libraries, asset pipelines, memory management, and build systems**
-- Software engineering best practices: **performance optimization, debugging, testing, clean architecture, and code quality**
-
-I also have experience and interest in:
-
-- **C# / .NET**
-- **Unity** *(gameplay systems, runtime systems, editor tooling, optimization)*
-- Engineering workflows: **Git, CI/CD, automated testing, and software architecture**
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre
 
-I am a **Software Engineer** with approximately **4.5 years of professional experience** in software development, including **game systems, web development, e-commerce, programming education, and production systems**.
+Engenheiro de Software formado pela **UniSenaiPR**. Comecei no full-stack web — PHP, Magento, e-commerce com tráfego real — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
 
-My current goal is to transition into **Graphics/Engine Programming**, contributing to teams that value **low-level development, performance, scalability, and clean architecture**.
+Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um sistema de 5 microsserviços com RabbitMQ, Redis, Docker e Kubernetes. Já ensinei **Python** pra turmas iniciantes — entender como explicar código mudou como eu escrevo código.
 
----
-
-## 🧰 Core Stack
-
-### Languages & Programming
-- **C / C++**
-- **C#**
-- **PHP**
-- **JavaScript**
-
-### Graphics & Game Development
-- **Vulkan / OpenGL** *(portfolio currently in development)*
-- **Unity**
-- Gameplay Systems
-- Performance Optimization
-
-### Software Engineering
-- Data Structures & Algorithms
-- Software Architecture
-- Debugging & Testing
-- CI/CD
-- Agile / Scrum
-
-### Tools
-- Git (**GitHub / GitLab**)
-- Docker
+Gosto de problemas que misturam **performance**, **matemática** e **produto**.
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Hoje
 
-### 🎮 Graphics / Engine Programming (C++)
-
-#### **MiniRenderer (Vulkan)**
-Custom renderer featuring:
-- Swapchain management
-- Command buffers
-- Synchronization
-- Graphics pipelines
-- Descriptor systems
-
-#### **OpenGL Sandbox**
-Graphics experiments including:
-- Basic PBR
-- Shadow mapping
-- Post-processing
-- Instancing
-
-#### **Math Library**
-Custom implementation of:
-- Vectors
-- Matrices
-- Quaternions
-
-Includes:
-- Testing
-- Benchmarking
-
-#### **ECS Playground**
-Entity Component System architecture focused on:
-- Performance
-- Cache locality
-- Scalability
+- 🎮 **Desenvolvedor de Jogos C++** @ [Firepot Gaming](https://www.firepotgaming.com/slots) — slots em engine proprietária, RNG, modelagem de RTP/volatilidade
+- 🎓 **Pós-Tech em Arquitetura .NET** @ FIAP + Alura — microsserviços, Clean Arch, DDD
+- 💼 Aberto a oportunidades em **Game Dev**, **.NET** ou **Full-Stack**
 
 ---
 
-### 🎮 Unity / C# Projects
+## 🧰 Stack
 
-#### **Gameplay Systems**
-Implementation of:
-- State machines
-- Input systems
-- UI systems
-- Object pooling
-- Save/load mechanics
-
-#### **Editor Tools**
-Custom Unity tools for:
-- Workflow automation
-- Custom inspectors
-- Asset pipeline improvements
+**Linguagens** &nbsp; `C++` &nbsp; `C#` &nbsp; `PHP` &nbsp; `Python` &nbsp; `JavaScript`
+**Game Dev** &nbsp; `Custom Engine` &nbsp; `Unity` &nbsp; `RNG` &nbsp; `Math Models` &nbsp; `GDD`
+**Backend** &nbsp; `.NET 8` &nbsp; `ASP.NET Core` &nbsp; `EF Core` &nbsp; `Laravel` &nbsp; `Magento` &nbsp; `Django`
+**Infra** &nbsp; `Docker` &nbsp; `Kubernetes` &nbsp; `RabbitMQ` &nbsp; `Redis` &nbsp; `CI/CD` &nbsp; `GitHub Actions`
+**Banco** &nbsp; `SQL Server` &nbsp; `MySQL` &nbsp; `SQLite`
 
 ---
 
-## 📚 Education
+## 📌 Projetos em destaque
 
-### **B.Sc. in Software Engineering**
-**UniSenaiPR – Faculdade da Indústria**  
-**Completed:** Jul/2025
+| Projeto | Stack |
+|---|---|
+| 🏗️ **[Plataforma de e-commerce em microsserviços](https://github.com/FIAP-PosTech-2025)** — 5 serviços .NET 8 com RabbitMQ, Redis e K8s · projeto integrador da pós FIAP | `.NET 8` `RabbitMQ` `Redis` `K8s` |
+| 📅 **[Agenda Laravel + React + Docker](https://github.com/PedroDelgadoHenriques1/laravel-react-docker-agenda)** — app full-stack containerizado, REST API + SPA | `Laravel` `React` `Docker` |
+| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 do zero, exercício de fundamentos de criptografia simétrica | `Python` `Crypto` |
+| 🎮 **[Jogo de Plataforma 2D](https://github.com/PedroDelgadoHenriques1/Jogo-de-Plataforma-2D-Udemy)** — Unity / C#, primeiro contato com game dev | `Unity` `C#` |
+| 🥊 **[World Combat](https://www.worldcombat.com.br/)** — e-commerce Magento em produção com integração SOAP/ERP (feito na Bis2Bis) | `Magento` `PHP` `SOAP` |
 
-### **Postgraduate Degree (Ongoing)**
-**.NET Systems Architecture**
-
-### **Former Studies**
-**Chemical Engineering**  
-Federal University of Technology – Paraná (**UTFPR**)
-
----
-
-## 💼 Professional Experience
-
-### Web Developer  
-**Bis2Bis E-commerce**  
-**Nov 2021 – May 2024**
-
-Worked on **Magento-based e-commerce systems**, developing and maintaining online stores using the **PHP ecosystem**.
-
-#### Responsibilities
-- Development of e-commerce features using **PHP, JavaScript, and Magento**
-- Creation and maintenance of store themes from design specifications
-- Bug fixing and customization of Magento modules
-- Maintenance of business rules and integrations
-- Performance optimization and technical maintenance
-- Participation in **Scrum ceremonies** and agile workflows
-
-#### Tech Stack
-`PHP` `JavaScript` `Magento` `HTML` `CSS` `Git` `Scrum`
+> 🔗 **Site completo com tudo:** [pedrodelgadohenriques1.github.io](https://pedrodelgadohenriques1.github.io)
 
 ---
 
-### Programming Instructor  
-**EnsinaMais**  
-**Jul 2024 – Dec 2024**
+## 💼 Experiência
 
-Taught programming fundamentals through **hands-on practical lessons**.
+### 🎮 Firepot Gaming — Desenvolvedor de Jogos C++ Pleno
+**dez/2024 — atual**
 
-#### Topics Covered
-- Programming Logic
-- Python
-- Scratch
-- Games & Animations
-- Problem-Solving Skills
+- Desenvolvimento de slot machines em **C++ puro** sobre engine proprietária
+- Bonus rounds, free spins, cascading reels integrados aos sistemas existentes
+- Refatoração de módulos críticos: renderização de símbolos, RNG, sistema de animação
+- Modelagem matemática de volatilidade e tuning de RTP
+- Elaboração de Game Design Documents (mecânicas, paytable, fluxo, regras de bônus)
+
+`C++` `Game Engine` `RNG` `Math Models` `GDD` `CI/CD`
+
+### 👨‍🏫 Ensina Mais — Professor de Programação
+**jun/2024 — dez/2024**
+
+- Aulas de **Python** pra iniciantes: lógica, estruturas de dados, boas práticas
+- Material didático próprio, exercícios e acompanhamento individual
+
+`Python` `Didática` `Mentoria`
+
+### 🛒 Bis2Bis E-commerce — Dev Full-Stack (Júnior → Pleno)
+**out/2021 — mai/2024**
+
+- Promovido de Júnior a Pleno assumindo projetos de maior complexidade
+- Full-stack com **PHP, JavaScript e Magento** pra múltiplos clientes
+- Integração com APIs SOAP e manipulação de XML pra conexão com ERPs
+- SEO técnico, otimização de performance, ciclo completo até deploy
+
+`PHP` `Magento` `JavaScript` `SOAP` `MySQL` `SEO`
 
 ---
 
-### Systems / Game Developer  
-**Firepot Gaming**  
-**Dec 2024 – Present**
+## 📚 Formação
 
-Working on **slot machine systems**, performance optimization, testing automation, and internal development tools.
+- 🎓 **Pós-Tech em Arquitetura .NET** · FIAP + Alura · *jan/2025 — dez/2026*
+- 🎓 **Bacharel em Engenharia de Software** · UniSenaiPR · *2021 — jul/2025*
+- 📖 Engenharia Química (incompleto) · UTFPR
 
-#### Responsibilities
-- Development in **C and C++**
-- Automated and manual software testing
-- Performance optimization
-- Internal web systems development
-- Creation of tools for analysis and operational support
+---
 
-#### Technologies & Skills
-`C` `C++` `Git` `GitFlow` `Agile` `OOP` `Performance Optimization`
+## 🤝 Contato
+
+[![Email](https://img.shields.io/badge/-pedrodelgadohenriques1%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:pedrodelgadohenriques1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-delgado-henriques-8b865b215/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff7a3c?style=flat&logo=googlechrome&logoColor=white)](https://pedrodelgadohenriques1.github.io)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5543999926087)
+
