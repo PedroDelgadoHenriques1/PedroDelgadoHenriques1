@@ -15,12 +15,9 @@
 
 ## 🧠 Sobre
 
-Engenheiro de Software formado pela **UniSenaiPR**. Comecei no full-stack web — PHP, Magento, e-commerce com tráfego real — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
+Engenheiro de Software formado pela **UniSenaiPR**. Comecei no full-stack web — PHP, Magento, e-commerce — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
 
-Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um sistema de 5 microsserviços com RabbitMQ, Redis, Docker e Kubernetes. Já ensinei **Python** pra turmas iniciantes — entender como explicar código mudou como eu escrevo código.
-
-Gosto de problemas que misturam **performance**, **matemática** e **produto**.
-
+Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um sistema de 5 microsserviços com RabbitMQ, Redis, Docker e Kubernetes. Já ensinei **Python** pra turmas de alunos.
 ---
 
 ## 🎯 Hoje
@@ -79,8 +76,8 @@ Gosto de problemas que misturam **performance**, **matemática** e **produto**.
 ### 🛒 Bis2Bis E-commerce — Dev Full-Stack (Júnior → Pleno)
 **out/2021 — mai/2024**
 
-- Promovido de Júnior a Pleno assumindo projetos de maior complexidade
-- Full-stack com **PHP, JavaScript e Magento** pra múltiplos clientes
+- Promovido de Júnior a Pleno 
+- Full-stack com **PHP, JavaScript e Magento** processo de lojas e-commerce
 - Integração com APIs SOAP e manipulação de XML pra conexão com ERPs
 - SEO técnico, otimização de performance, ciclo completo até deploy
 
