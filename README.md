@@ -70,7 +70,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 `C++` `Game Engine` `RNG` `Math Models` `GDD` `CI/CD`
 
 ### 👨‍🏫 Ensina Mais — Programming Instructor
-**Aug/2024 — Feb/2025**
+**Aug/2024 — Dec/2024**
 
 - **Python** classes for beginners: logic, data structures, best practices
 - Course materials, exercises and 1:1 follow-up with each student
