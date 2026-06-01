@@ -70,7 +70,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 `C++` `Game Engine` `RNG` `Math Models` `GDD` `CI/CD`
 
 ### 👨‍🏫 Ensina Mais — Programming Instructor
-**Aug/2024 — Dec/2024**
+**Jun/2024 — Dec/2024**
 
 - **Python** classes for beginners: logic, data structures, best practices
 - Course materials, exercises and 1:1 follow-up with each student
@@ -78,7 +78,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 `Python` `Teaching` `Mentorship`
 
 ### 🛒 Bis2Bis E-commerce — Full-Stack Dev (Junior → Mid-Level)
-**Aug/2021 — May/2024**
+**Nov/2021 — Jun/2024**
 
 - Promoted from Junior to Mid-Level
 - Full-stack with **PHP, JavaScript and Magento** for e-commerce stores
