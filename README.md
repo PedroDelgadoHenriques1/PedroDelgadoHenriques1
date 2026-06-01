@@ -144,7 +144,7 @@ Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um si
 |---|---|
 | 🏗️ **[FIAP Cloud Games — OrchestrationApi](https://github.com/FIAP-PosTech-2025)** — 5 microsserviços .NET 8 com Kong, RabbitMQ, Redis, K8s · projeto integrador da pós FIAP | `.NET 8` `Kong` `RabbitMQ` `Redis` `K8s` |
 | 📅 **[Agenda Laravel + React + Docker](https://github.com/PedroDelgadoHenriques1/laravel-react-docker-agenda)** — app full-stack containerizado, REST API + SPA | `Laravel` `React` `Docker` |
-| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 do zero, exercício de fundamentos de criptografia simétrica | `Python` `Crypto` |
+| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 do zero, exercício de fundamentos de criptografia simétrica | `Python` |
 | 🎮 **[Jogo de Plataforma 2D](https://github.com/PedroDelgadoHenriques1/Jogo-de-Plataforma-2D-Udemy)** — Unity / C#, primeiro contato com game dev | `Unity` `C#` |
 | 🥊 **[World Combat](https://www.worldcombat.com.br/)** — e-commerce Magento em produção com integração SOAP/ERP (feito na Bis2Bis) | `Magento` `PHP` `SOAP` |
 
