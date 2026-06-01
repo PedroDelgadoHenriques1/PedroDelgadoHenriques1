@@ -17,7 +17,7 @@
 
 ## 🧠 About
 
-Software Engineer (UniSenaiPR). Started in full-stack web — PHP, Magento, e-commerce — and moved toward heavier stacks. Today my daily work is **pure C++** on a proprietary engine, modeling slot machine math at **Firepot Gaming**.
+Software Engineer. Started in full-stack web — PHP, Magento, e-commerce — and moved toward heavier stacks. Today my daily work is **pure C++** on a proprietary engine, modeling slot machine math at **Firepot Gaming**.
 
 In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm building a 5-microservice system with RabbitMQ, Redis, Docker and Kubernetes. I've also taught **Python** to beginner classes.
 
@@ -114,7 +114,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 
 ## 🧠 Sobre
 
-Engenheiro de Software formado pela **UniSenaiPR**. Comecei no full-stack web — PHP, Magento, e-commerce — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
+Engenheiro de Software formado. Comecei no full-stack web — PHP, Magento, e-commerce — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
 
 Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um sistema de 5 microsserviços com RabbitMQ, Redis, Docker e Kubernetes. Já ensinei **Python** pra turmas de alunos.
 
