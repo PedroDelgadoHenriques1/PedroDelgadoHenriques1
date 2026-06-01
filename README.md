@@ -47,7 +47,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 |---|---|
 | 🏗️ **[FIAP Cloud Games — OrchestrationApi](https://github.com/FIAP-PosTech-2025)** — 5 .NET 8 microservices with Kong, RabbitMQ, Redis, K8s · FIAP postgrad capstone | `.NET 8` `Kong` `RabbitMQ` `Redis` `K8s` |
 | 📅 **[Laravel + React + Docker scheduler](https://github.com/PedroDelgadoHenriques1/laravel-react-docker-agenda)** — containerized full-stack app, REST API + SPA | `Laravel` `React` `Docker` |
-| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 from scratch, symmetric cryptography fundamentals exercise | `Python` `Crypto` |
+| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 from scratch, symmetric cryptography fundamentals exercise | `Python` |
 | 🎮 **[2D Platformer Game](https://github.com/PedroDelgadoHenriques1/Jogo-de-Plataforma-2D-Udemy)** — Unity / C#, first hands-on with game dev | `Unity` `C#` |
 | 🥊 **[World Combat](https://www.worldcombat.com.br/)** — Magento e-commerce live in production with SOAP/ERP integration (built at Bis2Bis) | `Magento` `PHP` `SOAP` |
 
