@@ -17,7 +17,7 @@
 
 ## 🧠 About
 
-Software Engineer. Started in full-stack web — PHP, Magento, e-commerce — and moved toward heavier stacks. Today my daily work is **pure C++** on a proprietary engine, modeling slot machine math at **Firepot Gaming**.
+Software Engineer (UniSenaiPR). Started in full-stack web — PHP, Magento, e-commerce — and moved toward heavier stacks. Today my daily work is **pure C++** on a proprietary engine, modeling slot machine math at **Firepot Gaming**.
 
 In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm building a 5-microservice system with RabbitMQ, Redis, Docker and Kubernetes. I've also taught **Python** to beginner classes.
 
@@ -47,7 +47,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 |---|---|
 | 🏗️ **[FIAP Cloud Games — OrchestrationApi](https://github.com/FIAP-PosTech-2025)** — 5 .NET 8 microservices with Kong, RabbitMQ, Redis, K8s · FIAP postgrad capstone | `.NET 8` `Kong` `RabbitMQ` `Redis` `K8s` |
 | 📅 **[Laravel + React + Docker scheduler](https://github.com/PedroDelgadoHenriques1/laravel-react-docker-agenda)** — containerized full-stack app, REST API + SPA | `Laravel` `React` `Docker` |
-| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 from scratch, symmetric cryptography fundamentals exercise | `Python`  `Encryption` |
+| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 from scratch, symmetric cryptography fundamentals exercise | `Python` |
 | 🎮 **[2D Platformer Game](https://github.com/PedroDelgadoHenriques1/Jogo-de-Plataforma-2D-Udemy)** — Unity / C#, first hands-on with game dev | `Unity` `C#` |
 | 🥊 **[World Combat](https://www.worldcombat.com.br/)** — Magento e-commerce live in production with SOAP/ERP integration (built at Bis2Bis) | `Magento` `PHP` `SOAP` |
 
@@ -114,7 +114,7 @@ In parallel, I'm taking a **.NET Architecture postgrad at FIAP**, where I'm buil
 
 ## 🧠 Sobre
 
-Engenheiro de Software formado. Comecei no full-stack web — PHP, Magento, e-commerce — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
+Engenheiro de Software formado pela **UniSenaiPR**. Comecei no full-stack web — PHP, Magento, e-commerce — e fui migrando pra stacks mais pesados. Hoje meu dia a dia é **C++ puro** em engine proprietária, modelando matemática de slot machines na **Firepot Gaming**.
 
 Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um sistema de 5 microsserviços com RabbitMQ, Redis, Docker e Kubernetes. Já ensinei **Python** pra turmas de alunos.
 
@@ -144,7 +144,7 @@ Em paralelo, curso a **Pós em Arquitetura .NET pela FIAP**, onde construo um si
 |---|---|
 | 🏗️ **[FIAP Cloud Games — OrchestrationApi](https://github.com/FIAP-PosTech-2025)** — 5 microsserviços .NET 8 com Kong, RabbitMQ, Redis, K8s · projeto integrador da pós FIAP | `.NET 8` `Kong` `RabbitMQ` `Redis` `K8s` |
 | 📅 **[Agenda Laravel + React + Docker](https://github.com/PedroDelgadoHenriques1/laravel-react-docker-agenda)** — app full-stack containerizado, REST API + SPA | `Laravel` `React` `Docker` |
-| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 do zero, exercício de fundamentos de criptografia simétrica | `Python`  `Encryption` |
+| 🔐 **[CIFRA-AES](https://github.com/PedroDelgadoHenriques1/CIFRA-AES)** — AES-256 do zero, exercício de fundamentos de criptografia simétrica | `Python` `Crypto` |
 | 🎮 **[Jogo de Plataforma 2D](https://github.com/PedroDelgadoHenriques1/Jogo-de-Plataforma-2D-Udemy)** — Unity / C#, primeiro contato com game dev | `Unity` `C#` |
 | 🥊 **[World Combat](https://www.worldcombat.com.br/)** — e-commerce Magento em produção com integração SOAP/ERP (feito na Bis2Bis) | `Magento` `PHP` `SOAP` |
 
